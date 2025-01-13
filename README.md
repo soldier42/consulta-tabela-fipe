@@ -95,9 +95,9 @@ Veiculo[tipoVeiculo=1, valor=R$ 67.782,00, marca=Honda, modelo=Civic Sedan LXR 2
 Para bom funcionamento do código, é recomendado que:
 - Utilize-se apenas **valores inteiros** quando forem solicitados códigos de modelo e veículo;
 
-O código ainda **não possui tratamentos de erros**, portanto, leia atentamente as instruções.
+O código ainda **não possui tratamentos de erros**, portanto, é importante ter cuidado e atenção nos *inputs* fornecidos pelo usuário.
 
-Pelo código ser ligeiramente simples, não foi feito um feito um tratamento das consultas quando *printadas*.
+O código tem objetivo de apenas consolidar conhecimentos, portanto, não possui uma interação via terminal "agradável".
 
 Todos os dados são obtidos através da [**FIPE API**](https://deividfortuna.github.io/fipe/).
 
