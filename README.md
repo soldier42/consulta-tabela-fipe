@@ -13,8 +13,10 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 
-# Descrição do Projeto
-Este projeto é a resolução de um desafio proposto pela equipe da Alura em parceria com a Oracle One: o objetivo é desenvolver uma aplicação que faça, com requisições via [**API**](https://deividfortuna.github.io/fipe/), consulta de preços de modelos específicos de veículos com base na tabela FIPE.
+# Descrição do Projeto e Objetivo
+Este projeto é a resolução de um desafio proposto pela equipe da Alura em parceria com a Oracle One: a proposta é desenvolver uma aplicação que faça, com requisições via [**API**](https://deividfortuna.github.io/fipe/), consultas de preços de modelos específicos de veículos com base na tabela FIPE.
+
+O objetivo do projeto é consolidar os conhecimentos adquiridos nas aulas de [**Java: persistência de dados e consultas com Spring Data JPA**](https://cursos.alura.com.br/course/java-persistencia-dados-consultas-spring-data-jpa).
 
 # Requisitos
 
